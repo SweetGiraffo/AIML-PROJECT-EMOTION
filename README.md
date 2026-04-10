@@ -1,11 +1,11 @@
 # Facial Emotion Recognition (FER) via CNN
 
 ## Project Team
-* **Vaibhav Choudhary** - Roll No: 25ma60r29
-* **Keshav** - Roll No: 25ma60r10
-* **Mrinmoy Mondal** - Roll No: 25ma60r09
-* **Rani** - Roll No: 25ma50xx
-* **Urmi** - Roll No: 25ma60xx
+* **Vaibhav Choudhary** - Roll No: 25MA60R29
+* **Keshav** - Roll No: 25MA60R10
+* **Mrinmoy Mondal** - Roll No: 25MA60R09
+* **Rani** - Roll No: 25MA60R20
+* **Urmila** - Roll No: 25MA60R23
 
 ---
 
